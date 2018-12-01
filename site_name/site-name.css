@@ -1,0 +1,13 @@
+/* Site Name */
+.site h1 a {
+  color: #000000;
+  text-decoration: none;
+}
+.site h1 {
+  margin: 0;
+  font-size: 30px;
+}
+.site p {
+  margin: 0;
+  font-size: 12px;
+}
